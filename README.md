@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Qusay
+p- 👋 Hi, I’m Qusay
 - 👀 I’m interested in Data Engineering technologies and topics.
-- 🌱 I’m currently learning Python, Spark, and Airflow.
+- 🌱 I work with several data engineering technologies such as Pandas, Postgre SQL, Cassandra, Spark, and Airflow.
 - 📫 How to reach me at qusayfadhel@gmail.com.
 
 <!---
